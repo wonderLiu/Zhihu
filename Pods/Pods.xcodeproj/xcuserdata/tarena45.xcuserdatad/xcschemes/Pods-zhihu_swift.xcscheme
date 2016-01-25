@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '65D21E88808B6C66E652AEC8'
+               BlueprintIdentifier = 'D02EF49F9656D421358798E9'
                BlueprintName = 'Pods-zhihu_swift'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_zhihu_swift.framework'>
